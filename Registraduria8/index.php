@@ -71,8 +71,6 @@
   	<div > <iframe width="470" height="290"  src="http://www.youtube.com/embed/HPjwslH-nA4" frameborder="3" ></iframe> 
 <br><br><br>
 <div > <iframe width="470" height="290" src="http://www.youtube.com/embed/jlV_F9m3u5Y" frameborder="3" ></iframe> 
-  	<br><br><br>
-  	<div > <iframe width="470" height="290" src="http://www.youtube.com/embed/avpTHCxU6SE" frameborder="3" ></iframe> 
-	   </div> </div>
+  	<br><br><br> </div>
 </body>
 </html>
